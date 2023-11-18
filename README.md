@@ -3,7 +3,8 @@
 
 # Features
  - [x] Hides player lower body view model with !legs/!lowerbody
- - [ ] Instantly update.
+ - [x] Instantly update.
+ - [x] MySQL saving.
  - [ ] Translations. (Waiting for CounterStrikeSharp support)
 
 # Installation
